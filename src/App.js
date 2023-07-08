@@ -1,11 +1,9 @@
-import './App.css';
+import PageHero from "./Components/PageHero";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        Hello World
-      </header>
+    <div className="App" style={{backgroundColor:"red"}}>
+      <PageHero/>
     </div>
   );
 }
