@@ -1,15 +1,29 @@
 {
   "files": {
     "main.css": "/home/static/css/main.58346f3d.css",
-    "main.js": "/home/static/js/main.f7d500f9.js",
+    "main.js": "/home/static/js/main.e74e89de.js",
+    "static/media/pcb.jpg": "/home/static/media/pcb.3790827050661e0aa261.jpg",
+    "static/media/pi.jpg": "/home/static/media/pi.422ca959ed0cd9ff1646.jpg",
+    "static/media/soldering.jpg": "/home/static/media/soldering.2a9d8efa37f7881acb32.jpg",
+    "static/media/pexels-quang-nguyen-vinh-12741836.jpg": "/home/static/media/pexels-quang-nguyen-vinh-12741836.0164d67075e0e3a433d6.jpg",
+    "static/media/app_development.jpg": "/home/static/media/app_development.81104c6958a1c3d9b121.jpg",
+    "static/media/computer.jpg": "/home/static/media/computer.e391cc17d70d64e2fff9.jpg",
+    "static/media/all.svg": "/home/static/media/all.717647349156b675fa8530e3b73b03f5.svg",
     "static/media/icon.svg": "/home/static/media/icon.b2483f66913ccd5fcc005f14805d306c.svg",
     "index.html": "/home/index.html",
+    "static/media/web_development.svg": "/home/static/media/web_development.9e1069b425305d4e56a2e18c5ba786e3.svg",
+    "static/media/embedded_systems.svg": "/home/static/media/embedded_systems.06cee6365b8857f06ffdf4f56de54ce8.svg",
+    "static/media/uiux.svg": "/home/static/media/uiux.29847506aa99c3caa519fc35f23dd8f2.svg",
+    "static/media/desktop_app_development.svg": "/home/static/media/desktop_app_development.c1029e1acb79c5571fcac110ce3b0584.svg",
+    "static/media/mobile_apps_development.svg": "/home/static/media/mobile_apps_development.47382911f68be64923252a3e6e88b3dc.svg",
+    "static/media/constant_learner.svg": "/home/static/media/constant_learner.11861a664d4da21e2c298cc71ec3b6d8.svg",
+    "static/media/data_science.svg": "/home/static/media/data_science.55e00cca20c7f3e231f46a3fcd5e2963.svg",
     "static/media/down.svg": "/home/static/media/down.05d42a18ea68422d94454d88ae17c421.svg",
     "main.58346f3d.css.map": "/home/static/css/main.58346f3d.css.map",
-    "main.f7d500f9.js.map": "/home/static/js/main.f7d500f9.js.map"
+    "main.e74e89de.js.map": "/home/static/js/main.e74e89de.js.map"
   },
   "entrypoints": [
     "static/css/main.58346f3d.css",
-    "static/js/main.f7d500f9.js"
+    "static/js/main.e74e89de.js"
   ]
 }
