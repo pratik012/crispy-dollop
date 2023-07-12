@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home/static/css/main.58346f3d.css",
-    "main.js": "/home/static/js/main.e74e89de.js",
+    "main.js": "/home/static/js/main.c35a54a4.js",
     "static/media/pcb.jpg": "/home/static/media/pcb.3790827050661e0aa261.jpg",
     "static/media/pi.jpg": "/home/static/media/pi.422ca959ed0cd9ff1646.jpg",
     "static/media/soldering.jpg": "/home/static/media/soldering.2a9d8efa37f7881acb32.jpg",
@@ -20,10 +20,10 @@
     "static/media/data_science.svg": "/home/static/media/data_science.55e00cca20c7f3e231f46a3fcd5e2963.svg",
     "static/media/down.svg": "/home/static/media/down.05d42a18ea68422d94454d88ae17c421.svg",
     "main.58346f3d.css.map": "/home/static/css/main.58346f3d.css.map",
-    "main.e74e89de.js.map": "/home/static/js/main.e74e89de.js.map"
+    "main.c35a54a4.js.map": "/home/static/js/main.c35a54a4.js.map"
   },
   "entrypoints": [
     "static/css/main.58346f3d.css",
-    "static/js/main.e74e89de.js"
+    "static/js/main.c35a54a4.js"
   ]
 }
